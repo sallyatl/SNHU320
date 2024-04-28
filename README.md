@@ -1,1 +1,1 @@
-# SNHU320
+I can ensure that my code, software, or program is functional and secure with testing. There is static testing which is testing before the code is executed, and dynamic testing by executing the code. I can interpret the needs and incorporate them into the program by researching what is required and adhering to those standards when programming. I approach designing software by creating pseudocode and/or a flow chart to start with and then writing small lines of code and testing as I go along. 
